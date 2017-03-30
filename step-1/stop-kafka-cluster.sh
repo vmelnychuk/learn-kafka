@@ -9,3 +9,7 @@ $KAFKA_HOME/bin/kafka-server-stop.sh
 # stop zookeeper
 $KAFKA_HOME/bin/zookeeper-server-stop.sh
 
+# clean
+rm -fr /tmp/zookeeper
+rm -fr /tmp/kafka
+
