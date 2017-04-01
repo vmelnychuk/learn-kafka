@@ -1,4 +1,4 @@
 # top variables
-KAFKA_HOME=/home/vamel/rnd/soft/kafka
-CONFIG_DIR=/home/vamel/rnd/learn-kafka/step-1/cofiguration-files
+KAFKA_HOME=/Users/vmmelnychuk/Workspace/learn-kafka/soft/kafka
+CONFIG_DIR=/Users/vmmelnychuk/Workspace/learn-kafka/step-1/cofiguration-files
 
